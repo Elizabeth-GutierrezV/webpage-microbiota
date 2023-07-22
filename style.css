@@ -1,0 +1,21 @@
+body {
+    background-color: #31b189;
+    color: #ffc872;
+    font-family: 'Questrial', sans-serif;
+    font-size: larger;
+}
+
+.titulo{
+    color: #fad8b1;
+    text-align: center;
+}
+
+h2{
+    color: #fad8b1;
+}
+
+.imagenprincipal{
+    background-position-x: center;
+    width: 550px;
+    
+}
